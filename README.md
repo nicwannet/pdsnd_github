@@ -28,5 +28,5 @@ Finally, the user is prompted with the choice of restarting the program or not.
 
 ### Credits
 
-Thank you Udacity for providing the resources and material to allow me to succeed.
+Thank you Udacity for providing the resources and material to allow me to succeed
 
