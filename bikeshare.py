@@ -179,7 +179,7 @@ def user_stats(df,city):
     # Display counts of user types
     count_user = df['User Type'].value_counts()
     print('Total Counts of user type are {}.'.format(count_user))
-    # Display counts of gender
+    # Display counts of Male & Female genders
     df['Gender'].fillna('Not given',inplace=True)
     count_user_gender = df['Gender'].value_counts()
     print('Total Counts of user Gender type are {}.'.format(count_user_gender))
